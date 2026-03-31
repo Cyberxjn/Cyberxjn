@@ -3,13 +3,12 @@
 
 For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🔭 **I’m currently studing :** BCA 
+- 🌱 **I’m currently learning:** Computer applications && AI/ML && 
+- 👯 **I’m looking to collaborate on:** Cyberxjn.github.io
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** piyush0748in@gmail.com
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** Never getting bored with unix
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyush0748in@gmail.com)
 
